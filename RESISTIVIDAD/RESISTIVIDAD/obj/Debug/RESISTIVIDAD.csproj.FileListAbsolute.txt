@@ -1,0 +1,9 @@
+C:\Users\vazqu\source\repos\RESISTIVIDAD\RESISTIVIDAD\bin\Debug\RESISTIVIDAD.exe.config
+C:\Users\vazqu\source\repos\RESISTIVIDAD\RESISTIVIDAD\bin\Debug\RESISTIVIDAD.exe
+C:\Users\vazqu\source\repos\RESISTIVIDAD\RESISTIVIDAD\bin\Debug\RESISTIVIDAD.pdb
+C:\Users\vazqu\source\repos\RESISTIVIDAD\RESISTIVIDAD\obj\Debug\RESISTIVIDAD.csprojAssemblyReference.cache
+C:\Users\vazqu\source\repos\RESISTIVIDAD\RESISTIVIDAD\obj\Debug\RESISTIVIDAD.Form1.resources
+C:\Users\vazqu\source\repos\RESISTIVIDAD\RESISTIVIDAD\obj\Debug\RESISTIVIDAD.Properties.Resources.resources
+C:\Users\vazqu\source\repos\RESISTIVIDAD\RESISTIVIDAD\obj\Debug\RESISTIVIDAD.csproj.GenerateResource.cache
+C:\Users\vazqu\source\repos\RESISTIVIDAD\RESISTIVIDAD\obj\Debug\RESISTIVIDAD.exe
+C:\Users\vazqu\source\repos\RESISTIVIDAD\RESISTIVIDAD\obj\Debug\RESISTIVIDAD.pdb
